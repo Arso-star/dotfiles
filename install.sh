@@ -1,0 +1,2 @@
+[dotfiles - apps]
+sudo pacman -S vim neovim lazygit zsh zsh-theme-powerlevel10k oh-my-zsh-git discord krita vlc lutris opera obs-studio postman-bin steam steam-native-runtime wine wine-gecko wine-mono winetricks wps-office visual-studio-code-bin python-pip neofetch gimp heroic-games-launcher-bin jdk11-openjdk jre11-openjdk openjdk11-doc ntfs-3g jre11-openjdk mangohud jetbrains-toolbox dotnet-runtime dotnet-sdk aspnet-runtime goverlay firefox an-anime-game-launcher-bin blender
